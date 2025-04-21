@@ -1,0 +1,658 @@
+LIVE CHECK	IP:PORT	Ping	Zip	City	Country	Type
+Mon Apr 21 2025 15:18:28 GMT+0700 (Indochina Time)	134.209.29.120:3128	1114.7ms	SL1	Slough	United Kingdom	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	180.211.179.150:40153	1015.82ms	3100	Sylhet	Bangladesh	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	14.142.36.210:1111	1021.82ms	400034	Mumbai	India	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	84.247.236.114:4153	1014.82ms	37135	Verona	Italy	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	202.91.188.81:4145	1022.82ms	100000	Beijing	China	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	103.171.182.106:7777	1011.82ms	16830	Bogor	Indonesia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	193.233.210.182:8085	1001.82ms	7094	Secaucus	United States	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	203.76.103.62:4145	1019.82ms	1212	Dhaka	Bangladesh	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	139.59.19.120:30170	1011.82ms	560100	Bengaluru	India	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	202.131.159.60:5678	1013.82ms	400017	Mumbai	India	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	45.178.133.75:999	1005.82ms		Renca	Chile	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	202.57.55.242:38268	1050.82ms	1639	Taguig	Philippines	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	189.14.194.113:4145	1008.82ms	29160	Serra	Brazil	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	134.249.113.100:1080	1021.82ms	1000	Kyiv	Ukraine	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	62.213.23.99:8080	1004.82ms	404146	Samara	Russia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	85.172.66.254:1099	1019.82ms	354054	Sochi	Russia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	79.106.35.139:1080	1011.82ms		Peshkopi	Albania	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	191.53.112.170:35618	1011.82ms	12000	Taubat?	Brazil	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	113.172.154.115:10004	1019.82ms	700000	Ho Chi Minh City	Vietnam	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	185.140.242.154:5678	1020.82ms		Rob?? Kar?m	Iran	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	186.237.131.122:8080	1019.82ms	15000	S?o Jos? do Rio Preto	Brazil	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	101.47.167.93:20000	1038.82ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	162.220.246.2:6286	1019.82ms	EC4R	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	103.88.90.52:8080	1001.82ms	65119	Malang	Indonesia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	107.180.91.248:53414	1006.82ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	67.43.228.253:3063	1015.82ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	103.155.197.235:8080	1000.82ms	43131	Sukabumi	Indonesia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	51.15.252.246:16379	1025.82ms	75008	Paris	France	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	202.131.235.138:4153	1021.82ms		Ulan Bator	Mongolia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	181.121.74.37:65429	1033.82ms		Encarnaci?n	Paraguay	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	201.46.29.115:5678	1050.82ms	68515	S?o Paulo	Brazil	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	67.43.227.227:11605	1050.82ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	67.43.228.252:1733	1056.82ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	67.43.228.250:17835	1053.82ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	181.168.135.38:4145	1083.15ms	2000	Rosario	Argentina	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	138.117.85.161:8080	1068.82ms	417030	Pitalito	Colombia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	67.43.228.253:20397	1124.85ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	112.87.140.163:9443	1146.65ms		Suzhou	China	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	103.145.57.109:8080	1165.65ms	5810	Mahastan	Bangladesh	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	152.32.78.24:4145	1157.37ms	1103	Quezon City	Philippines	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	101.47.131.170:20000	1197.84ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	15.207.35.241:80	1238.83ms	400001	Mumbai	India	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	72.10.160.90:2913	1285.91ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	103.160.205.238:8199	1305.48ms		Timba Timuk	Indonesia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	45.126.169.233:4145	1393.61ms	400104	Mumbai	India	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	103.174.236.52:8080	1396.61ms	45458	Jatitujuh	Indonesia	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	203.215.181.218:36342	1423.6ms	46222	Rawalpindi	Pakistan	HTTP
+Mon Apr 21 2025 15:19:33 GMT+0700 (Indochina Time)	188.253.112.218:80	1404.6ms	999077	Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	170.39.119.109:1102	1598.02ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	45.87.68.3:15321	1798.62ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	91.230.199.174:32151	1791.62ms		Kryvyi Rih	Ukraine	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	45.78.230.139:20000	1014.48ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	111.177.48.18:9501	1001.48ms		Shizishan	China	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	190.119.167.154:5678	1013.98ms		Lima	Peru	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	187.44.110.157:4145	1005.18ms	1000	S?o Paulo	Brazil	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	176.9.238.173:47679	1040.6ms	8223	Falkenstein	Germany	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	107.181.148.119:5979	1004.43ms	EC4R	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	212.175.61.20:8080	1044.49ms	6370	Ankara	T?rkiye	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	183.165.249.240:8089	1017.37ms	230000	Hefei	China	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	67.43.227.228:1181	1003.45ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	46.197.82.24:1453	1002.43ms	7220	Yukar?karaman	T?rkiye	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	45.236.162.115:3128	1022.49ms	39400	Montes Claros	Brazil	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	34.244.90.35:80	1004.03ms	D02	Dublin	Ireland	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	119.82.243.66:8080	1039.14ms		Gubengairlangga	Indonesia	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	103.122.60.213:8080	1013.48ms	530044	Visakhapatnam	India	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	8.211.51.115:80	1062.8ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	18.135.211.182:3128	1049.79ms	W1B	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	171.250.220.176:1080	1013.9ms	700000	Ho Chi Minh City	Vietnam	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	103.167.69.238:8080	1040.48ms	40911	Bandung	Indonesia	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	103.172.144.108:8080	1033.43ms		Weleri	Indonesia	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	101.255.140.101:1081	1041.43ms	10220	Dukuh Atas	Indonesia	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	158.255.77.169:80	1066.43ms		Ras al-Khaimah	United Arab Emirates	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	102.68.128.211:8080	1022.9ms		Tripoli	Libya	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	72.10.160.90:17293	1064.98ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	194.228.129.189:56211	1055.4ms	150 00	Prague	Czechia	HTTP
+Mon Apr 21 2025 15:19:34 GMT+0700 (Indochina Time)	139.84.229.165:3002	1024.55ms	1600	Isando	South Africa	HTTP
+Mon Apr 21 2025 15:20:34 GMT+0700 (Indochina Time)	103.215.207.38:83	1013.02ms	492010	Raipur	India	HTTP
+Mon Apr 21 2025 15:20:34 GMT+0700 (Indochina Time)	109.200.156.2:4153	1029.25ms	10421	Simferopol	Ukraine	HTTP
+Mon Apr 21 2025 15:20:34 GMT+0700 (Indochina Time)	8.213.195.191:80	1046.17ms	10200	Bangkok	Thailand	HTTP
+Mon Apr 21 2025 15:20:34 GMT+0700 (Indochina Time)	103.144.18.95:80	1062.21ms	68122	Jember	Indonesia	HTTP
+Mon Apr 21 2025 15:20:34 GMT+0700 (Indochina Time)	125.141.139.198:5566	1130.7ms	87	Gwanak-gu	South Korea	HTTP
+Mon Apr 21 2025 15:20:35 GMT+0700 (Indochina Time)	188.75.186.152:4145	1085.2ms	290 01	Pod?brady	Czechia	HTTP
+Mon Apr 21 2025 15:20:35 GMT+0700 (Indochina Time)	93.118.112.150:4145	1063.76ms		Tehran	Iran	HTTP
+Mon Apr 21 2025 15:20:35 GMT+0700 (Indochina Time)	181.129.235.114:999	1116.36ms	50001	Medell?n	Colombia	HTTP
+Mon Apr 21 2025 15:20:35 GMT+0700 (Indochina Time)	122.154.66.132:8080	1210.14ms	75000	Samut Songkhram	Thailand	HTTP
+Mon Apr 21 2025 15:20:35 GMT+0700 (Indochina Time)	51.38.32.142:46627	994.27ms	59100	Roubaix	France	HTTP
+Mon Apr 21 2025 15:20:35 GMT+0700 (Indochina Time)	116.90.208.151:5678	1007.27ms		Palembang	Indonesia	HTTP
+Mon Apr 21 2025 15:20:35 GMT+0700 (Indochina Time)	46.105.105.223:16480	1019.51ms	59100	Roubaix	France	HTTP
+Mon Apr 21 2025 15:20:35 GMT+0700 (Indochina Time)	180.112.242.101:8089	1096.45ms	210000	Nanjing	China	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	112.78.39.90:4153	1209.13ms	50232	Semarang	Indonesia	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	46.105.35.193:8080	1216.05ms	59100	Roubaix	France	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	181.188.238.150:999	1214.56ms		Quito	Ecuador	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	109.69.161.131:10801	1197.31ms		Durr?s	Albania	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	190.182.88.214:30956	1142.42ms	80001	Barranquilla	Colombia	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	103.24.213.141:8090	1121.0ms		Semarang	Indonesia	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	103.156.248.78:8080	1107.18ms	29444	Batam	Indonesia	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	178.159.124.5:8080	1113.64ms	10421	Simferopol	Ukraine	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	222.68.36.181:2324	1114.77ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	92.247.127.161:4153	1100.93ms	4270	Parvomay	Bulgaria	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	177.91.44.96:4153	1103.13ms	60360	Fortaleza	Brazil	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	181.13.142.45:5678	1128.67ms	4000	San Miguel de Tucum?n	Argentina	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	72.10.164.178:29559	1058.08ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:20:36 GMT+0700 (Indochina Time)	89.39.107.35:29237	1021.92ms	2671	Naaldwijk	The Netherlands	HTTP
+Mon Apr 21 2025 15:21:33 GMT+0700 (Indochina Time)	101.47.22.68:20000	1374.39ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:21:33 GMT+0700 (Indochina Time)	117.102.115.158:4153	1099.41ms	12330	Bintaro	Indonesia	HTTP
+Mon Apr 21 2025 15:21:34 GMT+0700 (Indochina Time)	162.223.90.130:80	1120.5ms	14202	Buffalo	United States	HTTP
+Mon Apr 21 2025 15:21:34 GMT+0700 (Indochina Time)	154.6.99.61:3128	1010.88ms		New York	United States	HTTP
+Mon Apr 21 2025 15:21:34 GMT+0700 (Indochina Time)	103.150.115.186:4153	1003.04ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:21:34 GMT+0700 (Indochina Time)	177.201.133.126:4153	1003.04ms	90000	Porto Alegre	Brazil	HTTP
+Mon Apr 21 2025 15:21:34 GMT+0700 (Indochina Time)	104.207.62.233:3128	1008.03ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	91.147.235.99:4145	991.25ms	4031	Debrecen	Hungary	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	209.126.6.159:80	1197.46ms	63101	St Louis	United States	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	182.52.30.158:4153	1004.74ms	10400	Bangkok	Thailand	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	72.10.160.90:12601	1009.93ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	8.211.194.78:8443	1269.7ms	EC1N	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	12.218.209.130:13326	1510.6ms	95141	San Jose	United States	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	146.103.56.64:5612	1009.67ms	EC1N	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	168.90.255.60:999	1011.17ms	1871	Buenos Aires	Argentina	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	114.223.182.117:8089	996.94ms		Wuxi	China	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	72.10.160.173:30751	1009.2ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	82.213.80.203:4145	1004.78ms	29013	Carpaneto Piacentino	Italy	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	20.44.206.138:80	1612.42ms	168812	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	200.98.201.63:25000	1046.82ms	01000-000	S?o Paulo	Brazil	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	200.29.237.107:5678	1015.9ms	760002	Santiago de Cali	Colombia	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	47.122.62.83:3128	1604.95ms		Fuzhou	China	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	45.114.144.82:32650	1027.14ms	302003	Jaipur	India	HTTP
+Mon Apr 21 2025 15:21:35 GMT+0700 (Indochina Time)	51.89.157.0:1080	1034.22ms	EC1N	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:21:36 GMT+0700 (Indochina Time)	46.105.105.223:29690	1039.56ms	59100	Roubaix	France	HTTP
+Mon Apr 21 2025 15:21:36 GMT+0700 (Indochina Time)	8.213.197.208:3128	1045.28ms	10200	Bangkok	Thailand	HTTP
+Mon Apr 21 2025 15:21:36 GMT+0700 (Indochina Time)	103.157.13.75:84	1021.8ms	500001	Hyderabad	India	HTTP
+Mon Apr 21 2025 15:22:33 GMT+0700 (Indochina Time)	35.189.183.169:3128	1501.09ms		Taipei	Taiwan	HTTP
+Mon Apr 21 2025 15:22:33 GMT+0700 (Indochina Time)	177.44.175.198:4153	1140.49ms	85770	Realeza	Brazil	HTTP
+Mon Apr 21 2025 15:22:33 GMT+0700 (Indochina Time)	103.127.23.10:5678	1008.04ms	421306	Kaly?n	India	HTTP
+Mon Apr 21 2025 15:22:34 GMT+0700 (Indochina Time)	45.169.148.11:999	1014.17ms		El Monte	Chile	HTTP
+Mon Apr 21 2025 15:22:34 GMT+0700 (Indochina Time)	188.132.222.45:8080	997.13ms	31030	Antakya	T?rkiye	HTTP
+Mon Apr 21 2025 15:22:34 GMT+0700 (Indochina Time)	156.228.108.108:3128	1000.9ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:22:34 GMT+0700 (Indochina Time)	172.105.107.223:3128	1057.6ms	M5A	Toronto	Canada	HTTP
+Mon Apr 21 2025 15:22:34 GMT+0700 (Indochina Time)	31.171.104.39:8080	1011.1ms		Baku	Azerbaijan	HTTP
+Mon Apr 21 2025 15:22:34 GMT+0700 (Indochina Time)	67.43.236.20:6727	1006.49ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	68.183.48.146:10000	1205.52ms	7014	Clifton	United States	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	43.159.139.120:13001	1017.6ms		Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	45.178.55.1:999	1013.6ms	3300	Posadas	Argentina	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	85.215.64.49:80	1009.71ms	10587	Berlin	Germany	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	46.101.160.223:80	1285.37ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	203.160.58.198:4145	994.54ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	164.163.250.83:4145	1451.55ms	74900	Aparecida de Goi?nia	Brazil	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	185.244.208.193:37430	1011.59ms	999077	Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	103.152.232.84:8080	1000.02ms		Pamanukan	Indonesia	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	51.158.108.134:16379	1148.14ms	75001	Paris	France	HTTP
+Mon Apr 21 2025 15:22:35 GMT+0700 (Indochina Time)	123.185.0.192:9000	1009.26ms		Dalian	China	HTTP
+Mon Apr 21 2025 15:22:36 GMT+0700 (Indochina Time)	159.192.97.129:5678	1009.61ms	18190	Changwat Sara Buri	Thailand	HTTP
+Mon Apr 21 2025 15:22:36 GMT+0700 (Indochina Time)	101.47.17.26:20000	1002.27ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:22:36 GMT+0700 (Indochina Time)	202.169.246.55:4145	1015.15ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:22:36 GMT+0700 (Indochina Time)	64.225.8.132:10001	1296.03ms	7014	Clifton	United States	HTTP
+Mon Apr 21 2025 15:23:33 GMT+0700 (Indochina Time)	198.105.111.120:6798	1049.28ms	EC4R	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:23:34 GMT+0700 (Indochina Time)	218.236.166.96:8888	1004.26ms	480	Haeundae-gu	South Korea	HTTP
+Mon Apr 21 2025 15:23:34 GMT+0700 (Indochina Time)	61.76.95.217:40088	1010.05ms	415	Buk-gu	South Korea	HTTP
+Mon Apr 21 2025 15:23:34 GMT+0700 (Indochina Time)	88.150.15.30:8080	1032.19ms	39114	Magdeburg	Germany	HTTP
+Mon Apr 21 2025 15:23:34 GMT+0700 (Indochina Time)	213.32.252.134:5678	1015.61ms		Erbil	Iraq	HTTP
+Mon Apr 21 2025 15:23:34 GMT+0700 (Indochina Time)	93.94.90.180:4145	1004.33ms	91025	Marsala	Italy	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	95.31.42.199:3629	998.5ms	109382	Moscow	Russia	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	45.5.117.76:999	1009.28ms	1014	Guatemala City	Guatemala	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	190.69.24.17:5678	1030.7ms	111111	Bogot?	Colombia	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	110.43.84.217:80	1026.26ms		Haidian	China	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	182.253.204.117:8080	1030.62ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	72.10.160.90:23433	992.68ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	159.89.163.128:59166	1062.94ms	560100	Bengaluru	India	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	77.232.128.191:80	1424.57ms		St Petersburg	Russia	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	18.222.17.49:49205	1007.75ms	43017	Dublin	United States	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	8.210.200.44:5555	1007.08ms	999077	Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	103.159.96.121:8080	1001.12ms		Kepatihan	Indonesia	HTTP
+Mon Apr 21 2025 15:23:35 GMT+0700 (Indochina Time)	157.66.16.44:8080	1128.48ms	45265	Indramayu	Indonesia	HTTP
+Mon Apr 21 2025 15:23:36 GMT+0700 (Indochina Time)	103.181.168.249:8080	1011.27ms	625002	Madurai	India	HTTP
+Mon Apr 21 2025 15:23:36 GMT+0700 (Indochina Time)	161.35.70.249:8080	992.4ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:23:36 GMT+0700 (Indochina Time)	38.7.1.118:999	1024.63ms		Maracaibo	Venezuela	HTTP
+Mon Apr 21 2025 15:24:33 GMT+0700 (Indochina Time)	186.208.112.246:4153	1568.46ms	24000	Rio de Janeiro	Brazil	HTTP
+Mon Apr 21 2025 15:24:34 GMT+0700 (Indochina Time)	101.47.24.104:20000	1019.28ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:24:34 GMT+0700 (Indochina Time)	43.153.107.10:13001	3729.58ms		Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:24:34 GMT+0700 (Indochina Time)	109.86.219.4:4145	993.93ms	61000	Kharkiv	Ukraine	HTTP
+Mon Apr 21 2025 15:24:34 GMT+0700 (Indochina Time)	8.213.215.187:8888	1068.06ms	10200	Bangkok	Thailand	HTTP
+Mon Apr 21 2025 15:24:34 GMT+0700 (Indochina Time)	182.53.216.4:4153	1020.78ms	51000	Lamphun	Thailand	HTTP
+Mon Apr 21 2025 15:24:34 GMT+0700 (Indochina Time)	47.74.46.81:31433	1018.37ms	102-0082	Tokyo	Japan	HTTP
+Mon Apr 21 2025 15:24:34 GMT+0700 (Indochina Time)	18.216.72.10:5678	1051.13ms	43017	Dublin	United States	HTTP
+Mon Apr 21 2025 15:24:34 GMT+0700 (Indochina Time)	3.124.133.93:3128	1066.92ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	50.231.104.58:80	1114.61ms	17404	York	United States	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	193.122.105.251:65535	1005.29ms	2878	Seoul	South Korea	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	45.78.226.34:20000	1029.29ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	38.49.131.114:999	1032.59ms		El Pared?n	Mexico	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	90.182.147.170:4145	1028.87ms	170 00	Prague	Czechia	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	67.43.228.253:21245	1060.22ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	167.114.133.176:8050	1048.08ms	H3A	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	64.202.184.249:31239	993.18ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	104.207.61.118:3128	1049.18ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:24:35 GMT+0700 (Indochina Time)	103.140.167.185:8080	1020.17ms		Sonargaon	Bangladesh	HTTP
+Mon Apr 21 2025 15:24:36 GMT+0700 (Indochina Time)	45.224.119.10:999	1016.91ms	180401	Pelileo	Ecuador	HTTP
+Mon Apr 21 2025 15:24:36 GMT+0700 (Indochina Time)	167.71.108.40:38374	1068.39ms	7014	Clifton	United States	HTTP
+Mon Apr 21 2025 15:25:33 GMT+0700 (Indochina Time)	180.180.170.188:3629	1775.73ms	10700	Bangkok	Thailand	HTTP
+Mon Apr 21 2025 15:25:34 GMT+0700 (Indochina Time)	170.39.119.109:1041	1020.0ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:25:34 GMT+0700 (Indochina Time)	24.249.199.4:4145	1023.86ms	92104	San Diego	United States	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	103.149.194.9:32650	997.19ms	110036	Delhi	India	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	185.82.99.124:8080	992.3ms		Baalbek	Lebanon	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	202.51.124.166:1080	1073.24ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	103.127.204.117:27217	1006.14ms		Thanh Xu?n	Vietnam	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	195.114.9.184:34445	1001.75ms		Tehran	Iran	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	212.12.24.57:8090	1045.52ms	300045	Tula	Russia	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	202.144.201.35:43870	1009.61ms	2210	Dhaka	Bangladesh	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	45.78.212.43:20000	1386.24ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	103.112.22.22:83	1548.3ms	831001	Jamshedpur	India	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	212.56.194.238:4145	2043.07ms	MD-2000	Chisinau	Moldova	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	61.184.189.124:10800	1009.81ms	430000	Wuhan	China	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	43.163.96.95:3128	1014.24ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:25:35 GMT+0700 (Indochina Time)	107.150.37.85:1723	1026.88ms	64116	Kansas City	United States	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	43.153.4.199:13001	1403.75ms		Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	182.72.203.246:80	1001.36ms	562130	Bengaluru	India	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	41.242.79.244:5678	1044.59ms		Idiomo	Nigeria	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	179.27.81.43:5678	1008.81ms	11200	Montevideo	Uruguay	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	103.127.204.103:20103	1020.19ms		Thanh Xu?n	Vietnam	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	82.69.16.184:80	1015.19ms	W1B	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	85.118.105.20:41128	1047.85ms		Tbilisi	Georgia	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	67.43.227.228:24899	1417.18ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:25:36 GMT+0700 (Indochina Time)	67.43.227.226:11395	1002.6ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:26:34 GMT+0700 (Indochina Time)	13.80.134.180:80	1049.85ms	1047	Amsterdam	Netherlands	HTTP
+Mon Apr 21 2025 15:26:34 GMT+0700 (Indochina Time)	58.209.137.144:8089	1002.52ms	210000	Nanjing	China	HTTP
+Mon Apr 21 2025 15:26:34 GMT+0700 (Indochina Time)	94.23.168.216:5894	1005.52ms	67000	Strasbourg	France	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	124.70.221.252:8499	1113.22ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	45.189.118.92:999	1067.69ms		Lima	Peru	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	143.42.194.37:3128	1013.66ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	138.118.105.135:999	1375.93ms	1013	Guatemala City	Guatemala	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	45.135.139.230:6533	1038.34ms	EC4R	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	194.186.35.70:3128	1015.48ms		Moscow	Russia	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	175.24.2.65:1080	999.48ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	72.210.252.134:46164	1371.98ms	85001	Phoenix	United States	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	181.143.228.106:30673	1003.12ms	760045	Santiago de Cali	Colombia	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	157.15.0.160:7777	1033.72ms	63271	Ngawi	Indonesia	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	101.47.133.108:20000	1044.36ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	103.117.108.6:4153	1300.22ms	1411	N?r?yanganj	Bangladesh	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	164.68.110.241:10228	1005.42ms	67630	Lauterbourg	France	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	122.252.179.66:5678	1002.14ms		Phnom Penh	Cambodia	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	47.238.128.246:100	1630.54ms	999077	Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	154.61.227.8:64312	997.09ms	29004	M?laga	Spain	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	113.23.155.110:1231	1040.92ms	47500	Subang Jaya	Malaysia	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	45.234.61.2:999	1014.91ms		Petare	Venezuela	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	0.81.130:999	1015.53ms	----	--	Unknown	HTTP
+Mon Apr 21 2025 15:26:35 GMT+0700 (Indochina Time)	2.10.164.178:4883	1038.21ms	56000	Vannes	France	HTTP
+Mon Apr 21 2025 15:27:33 GMT+0700 (Indochina Time)	143.198.229.209:8888	998.16ms	95054	Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:27:33 GMT+0700 (Indochina Time)	59.92.70.176:3127	1013.04ms	686013	Kottayam	India	HTTP
+Mon Apr 21 2025 15:27:34 GMT+0700 (Indochina Time)	139.9.116.150:8520	1009.13ms		Beijing	China	HTTP
+Mon Apr 21 2025 15:27:34 GMT+0700 (Indochina Time)	94.26.241.120:8080	1031.08ms	195213	St Petersburg	Russia	HTTP
+Mon Apr 21 2025 15:27:34 GMT+0700 (Indochina Time)	47.250.177.202:5060	1033.85ms	50515	Kuala Lumpur	Malaysia	HTTP
+Mon Apr 21 2025 15:27:34 GMT+0700 (Indochina Time)	79.125.162.222:4145	1070.62ms	1200	Tetovo	North Macedonia	HTTP
+Mon Apr 21 2025 15:27:34 GMT+0700 (Indochina Time)	168.181.121.197:57010	1056.36ms		Tocoa	Honduras	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	103.60.181.211:31248	1024.16ms		Cibinong	Indonesia	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	167.172.109.12:46249	1023.49ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	182.23.35.242:8080	1002.05ms	12850	Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	103.190.60.29:9090	1331.35ms		Pekanbaru	Indonesia	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	103.244.107.65:1086	1388.76ms		Rengasdengklok	Indonesia	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	45.233.67.200:999	1006.36ms	1009	Guatemala City	Guatemala	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	38.242.202.236:8080	1048.38ms	40599	D?sseldorf	Germany	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	66.29.129.53:54929	1048.24ms	85001	Phoenix	United States	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	78.188.18.190:1085	1004.68ms	34080	Istanbul	T?rkiye	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	185.169.181.17:4145	1078.66ms	45400	Turgutlu	Turkey	HTTP
+Mon Apr 21 2025 15:27:35 GMT+0700 (Indochina Time)	190.97.228.65:999	1001.28ms		Caracas	Venezuela	HTTP
+Mon Apr 21 2025 15:27:36 GMT+0700 (Indochina Time)	206.85.9.134:8080	1017.16ms	59230	Tanhuato de Guerrero	Mexico	HTTP
+Mon Apr 21 2025 15:27:36 GMT+0700 (Indochina Time)	213.249.123.18:1080	2102.75ms	1140	Evere	Belgium	HTTP
+Mon Apr 21 2025 15:27:36 GMT+0700 (Indochina Time)	46.209.115.130:2022	1007.56ms		Tehran	Iran	HTTP
+Mon Apr 21 2025 15:27:36 GMT+0700 (Indochina Time)	93.87.75.118:47505	1008.66ms		Belgrade	Serbia	HTTP
+Mon Apr 21 2025 15:27:36 GMT+0700 (Indochina Time)	103.93.193.141:58080	1014.69ms	400017	Mumbai	India	HTTP
+Mon Apr 21 2025 15:27:36 GMT+0700 (Indochina Time)	146.103.56.144:5692	1002.74ms	EC1N	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:27:36 GMT+0700 (Indochina Time)	190.228.171.11:4145	1014.89ms	2900	San Nicol?s de los Arroyos	Argentina	HTTP
+Mon Apr 21 2025 15:27:36 GMT+0700 (Indochina Time)	124.90.45.58:10800	1000.88ms	310000	Hangzhou	China	HTTP
+Mon Apr 21 2025 15:28:33 GMT+0700 (Indochina Time)	118.120.244.123:10080	1171.82ms		Muping	China	HTTP
+Mon Apr 21 2025 15:28:33 GMT+0700 (Indochina Time)	105.247.148.210:37159	1074.01ms	1459	Boksburg	South Africa	HTTP
+Mon Apr 21 2025 15:28:33 GMT+0700 (Indochina Time)	195.22.253.238:4145	995.19ms	MD-2000	Chisinau	Moldova	HTTP
+Mon Apr 21 2025 15:28:34 GMT+0700 (Indochina Time)	103.42.228.56:8080	1044.41ms	3570	L?ksh?m	Bangladesh	HTTP
+Mon Apr 21 2025 15:28:34 GMT+0700 (Indochina Time)	91.247.250.215:4145	1017.43ms	141280	Ivanteyevka	Russia	HTTP
+Mon Apr 21 2025 15:28:34 GMT+0700 (Indochina Time)	72.10.160.170:5087	1003.1ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	222.252.194.204:8080	1050.23ms	170000	H?i D??ng	Vietnam	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	72.10.160.171:27101	1018.27ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	157.15.82.116:8113	1044.62ms	12850	Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	47.243.88.120:5555	1009.52ms	999077	Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	27.72.244.228:8080	1056.74ms	100000	Hanoi	Vietnam	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	64.49.39.36:8085	1017.17ms	80907	Colorado Springs	United States	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	112.66.72.81:4145	1025.05ms	570000	Haikou	China	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	67.43.227.226:14999	1008.68ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	162.223.88.228:7777	1003.96ms	14202	Buffalo	United States	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	54.212.22.168:80	1049.96ms	97207	Portland	United States	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	103.139.246.166:5678	1870.14ms	400017	Mumbai	India	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	72.10.160.174:26483	1149.38ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:28:35 GMT+0700 (Indochina Time)	98.181.137.83:4145	1026.29ms	89032	North Las Vegas	United States	HTTP
+Mon Apr 21 2025 15:28:36 GMT+0700 (Indochina Time)	79.174.12.190:80	1009.54ms	144700	Moscow	Russia	HTTP
+Mon Apr 21 2025 15:28:36 GMT+0700 (Indochina Time)	83.168.72.172:8081	1010.29ms	50-447	Wroclaw	Poland	HTTP
+Mon Apr 21 2025 15:28:36 GMT+0700 (Indochina Time)	91.189.237.78:8080	1003.8ms	683902	Petropavlovsk-Kamchatsky	Russia	HTTP
+Mon Apr 21 2025 15:28:36 GMT+0700 (Indochina Time)	156.228.112.234:3128	1161.6ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:29:33 GMT+0700 (Indochina Time)	37.220.85.96:4242	1021.77ms	1012	Amsterdam	The Netherlands	HTTP
+Mon Apr 21 2025 15:29:34 GMT+0700 (Indochina Time)	45.230.169.9:999	1213.61ms		Caracas	Venezuela	HTTP
+Mon Apr 21 2025 15:29:34 GMT+0700 (Indochina Time)	72.10.160.90:14147	1028.36ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:29:34 GMT+0700 (Indochina Time)	189.90.255.208:3128	1008.41ms	35900	Itabira	Brazil	HTTP
+Mon Apr 21 2025 15:29:34 GMT+0700 (Indochina Time)	118.175.93.148:59403	1044.56ms	10210	Khwaeng Thung Song Hong	Thailand	HTTP
+Mon Apr 21 2025 15:29:34 GMT+0700 (Indochina Time)	67.43.236.20:22181	1002.71ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:29:34 GMT+0700 (Indochina Time)	103.173.230.254:1080	1015.7ms	40241	Bandung	Indonesia	HTTP
+Mon Apr 21 2025 15:29:34 GMT+0700 (Indochina Time)	39.175.77.7:30001	1000.71ms	310000	Hangzhou	China	HTTP
+Mon Apr 21 2025 15:29:35 GMT+0700 (Indochina Time)	64.225.8.132:10010	1021.21ms	7014	Clifton	United States	HTTP
+Mon Apr 21 2025 15:29:35 GMT+0700 (Indochina Time)	46.160.90.81:5678	1000.72ms	61016	Kharkiv	Ukraine	HTTP
+Mon Apr 21 2025 15:29:35 GMT+0700 (Indochina Time)	45.189.252.57:999	1045.89ms	95280	Lerdo de Tejada	Mexico	HTTP
+Mon Apr 21 2025 15:29:35 GMT+0700 (Indochina Time)	110.74.203.250:8080	1006.24ms		Phnom Penh	Cambodia	HTTP
+Mon Apr 21 2025 15:29:35 GMT+0700 (Indochina Time)	54.215.46.91:20087	1168.2ms	95141	San Jose	United States	HTTP
+Mon Apr 21 2025 15:29:35 GMT+0700 (Indochina Time)	202.180.23.42:4153	1042.96ms	12850	Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:29:35 GMT+0700 (Indochina Time)	46.173.175.166:10801	1042.19ms	47502	Berezhany	Ukraine	HTTP
+Mon Apr 21 2025 15:29:36 GMT+0700 (Indochina Time)	103.153.185.249:8080	1164.83ms	1411	N?r?yanganj	Bangladesh	HTTP
+Mon Apr 21 2025 15:29:36 GMT+0700 (Indochina Time)	45.179.246.1:999	1038.47ms	417070	Acevedo	Colombia	HTTP
+Mon Apr 21 2025 15:29:36 GMT+0700 (Indochina Time)	121.230.8.238:1080	1015.44ms		Taizhou	China	HTTP
+Mon Apr 21 2025 15:29:36 GMT+0700 (Indochina Time)	67.43.227.228:28099	1045.55ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:29:36 GMT+0700 (Indochina Time)	154.214.1.120:3128	1039.56ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:29:36 GMT+0700 (Indochina Time)	177.39.218.70:4153	1291.87ms	93300	Novo Hamburgo	Brazil	HTTP
+Mon Apr 21 2025 15:30:33 GMT+0700 (Indochina Time)	117.102.78.165:1080	1369.68ms	12330	Bintaro	Indonesia	HTTP
+Mon Apr 21 2025 15:30:34 GMT+0700 (Indochina Time)	103.245.205.226:6969	1014.01ms	1206	Dhaka	Bangladesh	HTTP
+Mon Apr 21 2025 15:30:34 GMT+0700 (Indochina Time)	103.226.143.86:1080	1000.3ms	400017	Mumbai	India	HTTP
+Mon Apr 21 2025 15:30:34 GMT+0700 (Indochina Time)	202.146.228.251:8088	2836.61ms		Bandung	Indonesia	HTTP
+Mon Apr 21 2025 15:30:34 GMT+0700 (Indochina Time)	181.174.224.63:999	1025.48ms		Lima	Peru	HTTP
+Mon Apr 21 2025 15:30:34 GMT+0700 (Indochina Time)	222.68.42.88:1080	1013.48ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:30:34 GMT+0700 (Indochina Time)	185.94.219.160:1080	1036.48ms	79007	Lviv	Ukraine	HTTP
+Mon Apr 21 2025 15:30:34 GMT+0700 (Indochina Time)	190.2.212.20:999	1054.48ms	731020	L?rida	Colombia	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	45.78.210.2:20000	1040.23ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	180.164.53.151:10800	1032.41ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	103.102.14.185:1080	1019.9ms	59211	Rembangan	Indonesia	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	128.199.104.190:41354	1255.62ms	627753	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	81.12.122.10:8080	1010.53ms		Tehran	Iran	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	101.47.21.196:20000	1056.14ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	31.28.8.196:9898	1024.49ms	144700	Moscow	Russia	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	67.43.227.227:3653	1011.98ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	27.79.194.186:16000	1010.98ms	100000	Hanoi	Vietnam	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	191.252.111.146:59166	1017.98ms	69100	Itacoatiara	Brazil	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	47.76.69.226:8080	1052.64ms	999077	Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	193.163.92.103:8085	1016.64ms	121	Helsinki	Finland	HTTP
+Mon Apr 21 2025 15:30:35 GMT+0700 (Indochina Time)	38.156.72.179:8080	1007.09ms	31000	Antakya	T?rkiye	HTTP
+Mon Apr 21 2025 15:31:33 GMT+0700 (Indochina Time)	63.151.9.74:64312	1041.98ms	84404	Ogden	United States	HTTP
+Mon Apr 21 2025 15:31:33 GMT+0700 (Indochina Time)	45.172.111.93:999	1294.7ms	5442	Caucete	Argentina	HTTP
+Mon Apr 21 2025 15:31:33 GMT+0700 (Indochina Time)	112.20.38.77:800	1036.54ms		Yangzhou	China	HTTP
+Mon Apr 21 2025 15:31:34 GMT+0700 (Indochina Time)	49.0.43.238:39930	1018.07ms	1219	Dhaka	Bangladesh	HTTP
+Mon Apr 21 2025 15:31:34 GMT+0700 (Indochina Time)	8.213.137.155:119	1018.59ms	4524	Seoul	South Korea	HTTP
+Mon Apr 21 2025 15:31:34 GMT+0700 (Indochina Time)	103.23.141.253:8181	993.22ms		Legian	Indonesia	HTTP
+Mon Apr 21 2025 15:31:34 GMT+0700 (Indochina Time)	103.21.217.89:3888	1010.23ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:31:34 GMT+0700 (Indochina Time)	50.239.72.19:80	1056.42ms	62526	Decatur	United States	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	187.111.193.81:44681	1061.08ms	44190	Santo Est?v?o	Brazil	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	103.140.239.154:17500	1016.2ms	96521	Mong Kok	Hong Kong	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	198.27.74.6:9300	1018.25ms	J6N	Beauharnois	Canada	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	142.54.226.214:4145	1010.86ms	90211	Beverly Hills	United States	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	66.181.169.154:1080	1052.82ms		Ulan Bator	Mongolia	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	103.199.97.17:39825	1013.02ms		Digha	India	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	67.43.228.253:10601	997.95ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	185.34.22.225:46169	1049.11ms	367003	Makhachkala	Russia	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	154.115.132.162:80	1401.31ms		Dakar	Senegal	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	178.212.54.137:5678	1030.71ms	66-200	Gmina ?wiebodzin	Poland	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	91.203.25.28:4153	1016.87ms	7400	Brovary	Ukraine	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	203.189.154.151:1080	994.36ms		Phnom Penh	Cambodia	HTTP
+Mon Apr 21 2025 15:31:35 GMT+0700 (Indochina Time)	103.154.77.35:9090	1003.35ms	55511	Sleman	Indonesia	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	181.113.135.254:52058	1008.07ms		Guayaquil	Ecuador	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	187.45.127.87:20183	1015.11ms	99700	Erechim	Brazil	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	191.53.112.170:45619	1053.11ms	12000	Taubat?	Brazil	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	67.43.228.251:16239	1011.22ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	162.240.19.30:80	2324.24ms	84606	Provo	United States	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	41.33.203.115:1974	1032.98ms		Cairo	Egypt	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	85.214.107.177:80	1002.81ms	10587	Berlin	Germany	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	192.95.33.162:2887	1017.93ms	H3A	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	140.235.3.48:8085	1362.78ms	80202	Denver	United States	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	190.61.101.205:8080	1021.42ms	1010	Guatemala City	Guatemala	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	47.254.90.125:80	1313.37ms		Minkler	United States	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	178.251.111.26:8080	1048.61ms	41500	Putyvl'	Ukraine	HTTP
+Mon Apr 21 2025 15:31:36 GMT+0700 (Indochina Time)	185.37.186.159:4145	1002.61ms		Nicosia	Cyprus	HTTP
+Mon Apr 21 2025 15:32:33 GMT+0700 (Indochina Time)	103.181.168.222:8080	1002.6ms	625002	Madurai	India	HTTP
+Mon Apr 21 2025 15:32:33 GMT+0700 (Indochina Time)	43.153.27.248:13001	1812.59ms		Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:32:33 GMT+0700 (Indochina Time)	72.10.160.170:6085	1051.9ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:32:34 GMT+0700 (Indochina Time)	43.135.164.4:13001	1071.27ms		Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:32:34 GMT+0700 (Indochina Time)	181.74.80.52:999	989.01ms		Limache	Chile	HTTP
+Mon Apr 21 2025 15:32:34 GMT+0700 (Indochina Time)	78.108.41.124:9110	1001.7ms		?no Li?sia	Greece	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	103.106.181.10:82	1013.64ms	533222	Amal?puram	India	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	45.249.50.137:4153	1177.22ms	522002	Guntur	India	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	43.153.99.158:13001	1040.84ms		Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	4.188.236.47:80	1030.94ms	411001	Pune	India	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	45.6.38.24:8080	1071.51ms	58421	Campina Grande	Brazil	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	112.221.131.146:5678	1034.87ms	61	Gangnam-gu	South Korea	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	162.220.246.151:6435	1018.96ms	EC4R	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	85.238.104.216:8088	1014.98ms	65000	Odesa	Ukraine	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	116.99.33.189:4001	1446.29ms	100000	Hanoi	Vietnam	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	103.160.57.61:10101	1016.76ms		Sekayu	Indonesia	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	65.49.68.99:3128	1446.17ms	84655	Santaquin	United States	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	47.100.223.33:12080	1317.05ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	201.139.124.30:1080	1003.7ms	72197	Puebla City	Mexico	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	52.67.10.183:80	1800.39ms	01000-000	S?o Paulo	Brazil	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	77.225.177.14:10801	1042.19ms	3015	Alicante	Spain	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	91.211.172.104:46344	1216.36ms		Lugansk	Russia	HTTP
+Mon Apr 21 2025 15:32:35 GMT+0700 (Indochina Time)	43.227.129.129:83	1008.32ms	533107	Rajahmundry	India	HTTP
+Mon Apr 21 2025 15:33:33 GMT+0700 (Indochina Time)	88.85.97.150:4153	1006.69ms	1000	Skopje	North Macedonia	HTTP
+Mon Apr 21 2025 15:33:33 GMT+0700 (Indochina Time)	45.70.236.150:999	1043.99ms		Sim?n Bol?var	Ecuador	HTTP
+Mon Apr 21 2025 15:33:34 GMT+0700 (Indochina Time)	72.10.160.170:29287	1020.71ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:33:34 GMT+0700 (Indochina Time)	46.161.195.105:1981	1396.94ms		Duhok	Iraq	HTTP
+Mon Apr 21 2025 15:33:34 GMT+0700 (Indochina Time)	82.223.165.28:4836	1025.93ms	28070	Madrid	Spain	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	201.222.28.37:8080	1047.39ms	35590	Lagoa da Prata	Brazil	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	202.168.146.109:1080	1148.28ms	400104	Mumbai	India	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	27.189.132.63:8089	1018.52ms	50000	Shijiazhuang	China	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	45.190.52.24:8080	1027.07ms	88900	Ararangu?	Brazil	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	131.255.137.200:80	1027.62ms		San Isidro	Peru	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	186.123.141.31:4153	1022.0ms	1870	Avellaneda	Argentina	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	222.129.36.92:57114	1048.28ms		Beijing	China	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	49.48.42.73:8080	1435.57ms	20150	Pattaya	Thailand	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	58.187.175.215:16000	1052.7ms	100000	Hanoi	Vietnam	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	103.47.93.207:1080	1070.19ms	282001	Agra	India	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	103.247.23.28:9223	1002.04ms		Wonosobo	Indonesia	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	104.207.46.16:3128	1425.2ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	139.193.130.5:5678	1030.85ms	15415	South Tangerang	Indonesia	HTTP
+Mon Apr 21 2025 15:33:35 GMT+0700 (Indochina Time)	67.43.227.227:24137	1009.86ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:33:36 GMT+0700 (Indochina Time)	106.245.183.58:4145	2092.64ms	4524	Seoul	South Korea	HTTP
+Mon Apr 21 2025 15:33:36 GMT+0700 (Indochina Time)	111.132.16.156:3389	1014.69ms		Beijing	China	HTTP
+Mon Apr 21 2025 15:33:36 GMT+0700 (Indochina Time)	81.134.57.82:3128	1113.71ms	SE1	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:33:36 GMT+0700 (Indochina Time)	103.110.109.65:1080	1041.71ms		Male	Maldives	HTTP
+Mon Apr 21 2025 15:33:36 GMT+0700 (Indochina Time)	103.158.252.67:80	1042.62ms	52212	Brebes	Indonesia	HTTP
+Mon Apr 21 2025 15:33:36 GMT+0700 (Indochina Time)	109.75.34.152:59341	1154.86ms		Yerevan	Armenia	HTTP
+Mon Apr 21 2025 15:33:36 GMT+0700 (Indochina Time)	67.43.228.253:13255	1000.64ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:33:36 GMT+0700 (Indochina Time)	102.68.128.214:8080	1007.64ms		Tripoli	Libya	HTTP
+Mon Apr 21 2025 15:34:33 GMT+0700 (Indochina Time)	181.191.93.73:8082	1064.72ms	65520	Brejo	Brazil	HTTP
+Mon Apr 21 2025 15:34:34 GMT+0700 (Indochina Time)	77.221.141.44:1080	1076.1ms	100 04	Stockholm	Sweden	HTTP
+Mon Apr 21 2025 15:34:34 GMT+0700 (Indochina Time)	91.107.203.75:8080	1047.04ms	65931	Frankfurt Am Main	Germany	HTTP
+Mon Apr 21 2025 15:34:34 GMT+0700 (Indochina Time)	103.76.12.42:80	1011.83ms	12980	Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:34:34 GMT+0700 (Indochina Time)	103.115.252.26:51372	1034.2ms	1340	Savar Upazila	Bangladesh	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	188.255.208.246:1080	1041.71ms		Belgrade	Serbia	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	43.135.142.6:13001	1110.71ms		Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	47.254.36.213:9098	1021.41ms		Minkler	United States	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	203.177.237.153:8080	1045.01ms	5000	Iloilo City	Philippines	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	219.93.101.60:80	1004.92ms	59200	Kuala Lumpur	Malaysia	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	186.151.95.57:999	1033.69ms	1014	Guatemala City	Guatemala	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	47.93.52.36:3129	1040.68ms		Beijing	China	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	174.138.62.32:53344	1045.69ms	7014	Clifton	United States	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	186.211.177.161:8082	995.88ms	56900	Serra Talhada	Brazil	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	196.2.15.159:8080	1002.11ms		Bururi	Burundi	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	202.144.201.197:43870	1378.97ms	2210	Dhaka	Bangladesh	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	43.129.223.147:38080	1462.1ms		Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	200.118.122.6:4153	1483.21ms	111411	Bogot?	Colombia	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	109.111.251.158:6666	1879.72ms		Belgrade	Serbia	HTTP
+Mon Apr 21 2025 15:34:35 GMT+0700 (Indochina Time)	162.220.247.62:6657	1005.31ms	EC4R	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:34:36 GMT+0700 (Indochina Time)	67.43.228.253:4277	2059.69ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:34:36 GMT+0700 (Indochina Time)	27.189.133.80:8089	1497.72ms	50000	Shijiazhuang	China	HTTP
+Mon Apr 21 2025 15:34:36 GMT+0700 (Indochina Time)	188.255.209.21:1080	1025.78ms		Belgrade	Serbia	HTTP
+Mon Apr 21 2025 15:34:36 GMT+0700 (Indochina Time)	222.68.37.97:1080	1077.32ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:34:36 GMT+0700 (Indochina Time)	24.199.86.152:8888	1433.46ms	7047	North Bergen	United States	HTTP
+Mon Apr 21 2025 15:35:33 GMT+0700 (Indochina Time)	176.221.116.10:4145	1960.63ms	00-510	Warsaw	Poland	HTTP
+Mon Apr 21 2025 15:35:33 GMT+0700 (Indochina Time)	156.228.82.127:3128	1141.39ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:35:34 GMT+0700 (Indochina Time)	93.171.241.18:1080	1048.99ms	7201	Ivankiv	Ukraine	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	31.59.20.17:6595	1049.31ms	EC1N	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	13.69.159.45:3128	1055.0ms	D01	Dublin	Ireland	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	171.228.146.173:10089	1046.83ms	100000	Hanoi	Vietnam	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	51.178.165.36:3128	1001.88ms	67000	Strasbourg	France	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	101.47.18.128:20000	1165.93ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	181.211.185.150:1080	1354.51ms		Guayaquil	Ecuador	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	67.43.236.20:26085	1007.42ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	27.189.134.75:8089	1021.16ms	50000	Shijiazhuang	China	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	67.43.236.20:15221	1282.3ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	64.49.38.179:8085	1007.14ms	80907	Colorado Springs	United States	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	181.176.161.39:999	1037.25ms		La Joya	Peru	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	138.68.168.52:33415	1010.23ms	SL1	Slough	United Kingdom	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	123.57.78.53:8118	1020.75ms		Beijing	China	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	222.68.36.25:1080	1253.23ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	45.250.65.188:5678	997.55ms	77086	Bucharest	Romania	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	103.174.81.225:83	1488.15ms	500001	Hyderabad	India	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	101.47.134.149:20000	992.4ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	122.53.50.112:80	1010.1ms	6014	Mandaue City	Philippines	HTTP
+Mon Apr 21 2025 15:35:35 GMT+0700 (Indochina Time)	202.162.105.202:80	1000.67ms		Shatin	Hong Kong	HTTP
+Mon Apr 21 2025 15:36:33 GMT+0700 (Indochina Time)	8.211.200.183:3128	1038.56ms	EC1N	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:36:33 GMT+0700 (Indochina Time)	104.167.26.73:3128	1987.51ms	M5A	Toronto	Canada	HTTP
+Mon Apr 21 2025 15:36:33 GMT+0700 (Indochina Time)	39.107.249.241:3883	6101.85ms		Beijing	China	HTTP
+Mon Apr 21 2025 15:36:34 GMT+0700 (Indochina Time)	8.210.17.35:8004	1179.09ms	999077	Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:36:34 GMT+0700 (Indochina Time)	103.171.182.225:8080	1003.54ms	16830	Bogor	Indonesia	HTTP
+Mon Apr 21 2025 15:36:34 GMT+0700 (Indochina Time)	36.92.166.197:1080	1035.82ms	65119	Malang	Indonesia	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	180.105.128.183:8089	1022.65ms		Lianyun	China	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	195.138.90.226:3128	997.95ms	65031	Odesa	Ukraine	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	72.10.160.90:22759	1023.71ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	59.36.210.211:1070	1032.99ms	529000	Jiangmen	China	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	117.80.188.37:8089	1008.37ms	210000	Nanjing	China	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	88.255.132.179:1082	996.4ms	35240	Izmir	Turkey	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	114.219.102.50:8089	1016.11ms		Suzhou	China	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	64.225.4.81:10000	1180.74ms	7014	Clifton	United States	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	37.57.40.167:4145	1057.11ms	61091	Kharkiv	Ukraine	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	45.128.133.205:1080	1003.1ms	1140	Brussels	Belgium	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	91.210.47.85:30806	1029.42ms	350910	Krasnodar	Russia	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	223.25.100.234:8080	1051.18ms		Prapen	Indonesia	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	191.253.198.206:5678	1607.05ms	97540	Alegrete	Brazil	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	51.15.5.21:60349	999.45ms	1012	Amsterdam	The Netherlands	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	1.198.218.132:3128	1011.29ms		Zhengzhou	China	HTTP
+Mon Apr 21 2025 15:36:35 GMT+0700 (Indochina Time)	103.153.34.2:1111	1054.28ms		Jatiwangi	Indonesia	HTTP
+Mon Apr 21 2025 15:36:36 GMT+0700 (Indochina Time)	64.49.36.70:8085	1046.53ms	80907	Colorado Springs	United States	HTTP
+Mon Apr 21 2025 15:36:36 GMT+0700 (Indochina Time)	76.254.6.241:57023	1014.32ms	94523	Pleasant Hill	United States	HTTP
+Mon Apr 21 2025 15:36:36 GMT+0700 (Indochina Time)	222.165.215.117:52667	1031.32ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:36:36 GMT+0700 (Indochina Time)	103.97.94.22:4153	1012.96ms	403713	Utorda	India	HTTP
+Mon Apr 21 2025 15:37:33 GMT+0700 (Indochina Time)	8.210.17.35:100	1070.76ms	999077	Hong Kong	Hong Kong	HTTP
+Mon Apr 21 2025 15:37:33 GMT+0700 (Indochina Time)	78.83.242.229:4145	1078.39ms	1000	Sofia	Bulgaria	HTTP
+Mon Apr 21 2025 15:37:34 GMT+0700 (Indochina Time)	67.43.236.20:25189	1005.16ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:37:34 GMT+0700 (Indochina Time)	115.74.157.32:1080	1011.83ms	752000	Tam B?nh	Vietnam	HTTP
+Mon Apr 21 2025 15:37:34 GMT+0700 (Indochina Time)	105.27.143.174:4153	1014.11ms	2032	Randburg	South Africa	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	103.60.181.210:31248	989.85ms		Cibinong	Indonesia	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	115.231.175.80:3000	988.29ms	310000	Hangzhou	China	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	181.39.15.219:999	1023.31ms	90604	Guayaquil	Ecuador	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	200.115.157.211:4145	1017.39ms	34002	Panama City	Panama	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	91.205.146.79:3629	1269.19ms	143444	Krasnogorsk	Russia	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	187.125.30.122:4153	1415.51ms	64049	Teresina	Brazil	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	222.165.234.242:41541	1006.36ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	165.165.159.108:1888	1033.49ms	183	Pretoria	South Africa	HTTP
+Mon Apr 21 2025 15:37:35 GMT+0700 (Indochina Time)	36.92.166.195:1080	1021.12ms	65119	Malang	Indonesia	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	143.110.217.153:1080	1525.34ms	M5A	Toronto	Canada	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	46.32.25.18:7070	1006.52ms		Tehran	Iran	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	186.147.235.6:4153	1427.09ms	76248	El Cerrito	Colombia	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	51.75.126.150:15816	1566.52ms	59100	Roubaix	France	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	177.136.86.146:999	1011.68ms	3380	Puerto Eldorado	Argentina	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	192.111.138.29:4145	1015.52ms	30303	Atlanta	United States	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	37.156.46.209:8080	1014.11ms	1227	Les Acacias	Switzerland	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	110.164.162.45:80	1228.56ms	10100	Bangkok	Thailand	HTTP
+Mon Apr 21 2025 15:37:36 GMT+0700 (Indochina Time)	103.105.126.2:83	1014.67ms	400706	Navi Mumbai	India	HTTP
+Mon Apr 21 2025 15:38:33 GMT+0700 (Indochina Time)	72.10.160.170:14375	1295.05ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:38:33 GMT+0700 (Indochina Time)	103.15.83.74:30023	1005.82ms	400001	Mumbai	India	HTTP
+Mon Apr 21 2025 15:38:34 GMT+0700 (Indochina Time)	109.248.224.1:1080	995.76ms	109950	Moscow	Russia	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	13.125.98.173:3128	1000.75ms		Seoul	South Korea	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	47.250.177.202:999	1007.38ms	50515	Kuala Lumpur	Malaysia	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	103.189.218.85:6969	1074.81ms	1230	Tongi	Bangladesh	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	54.38.181.125:3128	1011.68ms	59100	Roubaix	France	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	195.225.49.131:55774	992.32ms	15300	Koryukivka	Ukraine	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	181.209.107.138:4153	996.32ms	7260	Saladillo	Argentina	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	102.176.179.26:4153	1025.04ms		Ouagadougou	Burkina Faso	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	109.122.195.16:80	1069.68ms	EC1V 2NX	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	91.236.74.10:8080	1006.76ms		Komotini	Greece	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	181.115.93.77:999	1333.33ms		Tegucigalpa	Honduras	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	123.25.15.209:9812	1010.83ms	100000	Hanoi	Vietnam	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	124.5.246.105:53002	1462.86ms	4524	Seoul	South Korea	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	36.91.98.115:8181	1359.45ms	12710	Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:38:35 GMT+0700 (Indochina Time)	203.190.46.27:8080	1009.59ms	55122	Yogyakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:38:36 GMT+0700 (Indochina Time)	91.90.215.185:1981	993.99ms		Moscow	Russia	HTTP
+Mon Apr 21 2025 15:38:36 GMT+0700 (Indochina Time)	122.50.7.186:8080	1013.53ms	16830	Bogor	Indonesia	HTTP
+Mon Apr 21 2025 15:38:36 GMT+0700 (Indochina Time)	196.216.132.196:8082	1016.4ms	2740	Lichtenburg	South Africa	HTTP
+Mon Apr 21 2025 15:38:36 GMT+0700 (Indochina Time)	212.174.44.2:8080	1006.38ms	27880	Karkam??	T?rkiye	HTTP
+Mon Apr 21 2025 15:38:36 GMT+0700 (Indochina Time)	109.226.36.78:1080	987.37ms		Ramat Gan	Israel	HTTP
+Mon Apr 21 2025 15:39:34 GMT+0700 (Indochina Time)	103.174.178.138:2020	1015.49ms		Jember	Indonesia	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	45.117.31.137:4145	1034.03ms	562114	Bengaluru	India	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	161.34.82.82:8080	999.32ms	141-0031	Nishikanda	Japan	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	45.161.113.0:999	1220.14ms		Salamanca	Chile	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	24.152.50.130:8080	1033.33ms	11403	Santiago de los Caballeros	Dominican Republic	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	20.219.176.57:3129	1013.39ms	411001	Pune	India	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	103.81.212.192:82	1392.56ms	121001	Faridabad	India	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	67.43.227.227:27603	1268.13ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	202.179.83.169:51951	1085.58ms	400033	Mumbai	India	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	204.101.61.82:4145	1001.05ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:39:35 GMT+0700 (Indochina Time)	203.210.235.91:5678	1023.91ms	820000	Thu Dau Mot	Vietnam	HTTP
+Mon Apr 21 2025 15:39:36 GMT+0700 (Indochina Time)	103.197.32.205:5678	1309.61ms	621212	Perambalur	India	HTTP
+Mon Apr 21 2025 15:39:36 GMT+0700 (Indochina Time)	27.189.133.79:8089	1011.94ms	50000	Shijiazhuang	China	HTTP
+Mon Apr 21 2025 15:39:36 GMT+0700 (Indochina Time)	47.176.213.210:39593	1024.07ms	90670	Santa Fe Springs	United States	HTTP
+Mon Apr 21 2025 15:39:36 GMT+0700 (Indochina Time)	185.61.92.207:39949	1007.51ms	143581	Pavlovskaya Sloboda	Russia	HTTP
+Mon Apr 21 2025 15:39:36 GMT+0700 (Indochina Time)	45.86.6.137:8080	1022.92ms		Bastak	Iran	HTTP
+Mon Apr 21 2025 15:40:33 GMT+0700 (Indochina Time)	83.97.119.14:8085	2361.28ms	121	Helsinki	Finland	HTTP
+Mon Apr 21 2025 15:40:33 GMT+0700 (Indochina Time)	125.227.225.157:3389	1013.49ms		Nanzih District	Taiwan	HTTP
+Mon Apr 21 2025 15:40:34 GMT+0700 (Indochina Time)	103.211.26.230:8181	1042.81ms	63123	Madiun	Indonesia	HTTP
+Mon Apr 21 2025 15:40:34 GMT+0700 (Indochina Time)	72.37.216.68:4145	1000.81ms	90211	Beverly Hills	United States	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	36.94.2.138:443	1009.15ms	12850	Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	78.189.64.42:4145	1008.06ms	34158	Atak?y	Turkey	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	104.207.47.7:3128	1004.42ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	105.247.28.74:4153	1040.13ms	2041	Johannesburg	South Africa	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	77.92.53.7:4145	1024.42ms	75-135	Koszalin	Poland	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	103.178.2.157:1080	1004.8ms		Cikampek	Indonesia	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	185.255.47.7:8080	1003.27ms		Abu Ghraib	Iraq	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	146.103.3.54:7107	1009.96ms	EC1N	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	103.242.105.111:8080	1037.73ms		Kebumen	Indonesia	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	41.65.236.56:1981	1046.01ms		Cairo	Egypt	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	103.162.50.13:6969	1016.06ms	4212	Chittagong	Bangladesh	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	202.70.34.82:47642	1683.24ms		Ulan Bator	Mongolia	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	104.207.53.254:3128	1006.43ms	20149	Ashburn	United States	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	112.86.116.24:1080	1380.12ms	215000	Suzhou	China	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	61.7.146.7:8082	1042.03ms	10120	Bangkok	Thailand	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	179.1.102.233:999	1017.15ms	111121	Bogot?	Colombia	HTTP
+Mon Apr 21 2025 15:40:35 GMT+0700 (Indochina Time)	101.47.15.193:20000	1010.39ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:40:36 GMT+0700 (Indochina Time)	67.43.228.253:22105	1007.78ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:40:36 GMT+0700 (Indochina Time)	67.43.236.20:22083	2070.78ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:40:36 GMT+0700 (Indochina Time)	177.137.168.159:4145	1005.39ms	63100	Crato	Brazil	HTTP
+Mon Apr 21 2025 15:40:36 GMT+0700 (Indochina Time)	213.101.151.4:1080	1008.68ms	1001	Vilnius	Lithuania	HTTP
+Mon Apr 21 2025 15:40:36 GMT+0700 (Indochina Time)	67.43.227.227:14751	1009.15ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:40:36 GMT+0700 (Indochina Time)	222.129.38.180:57114	1049.52ms		Beijing	China	HTTP
+Mon Apr 21 2025 15:40:36 GMT+0700 (Indochina Time)	103.161.69.217:8469	1044.84ms	4000	Chittagong	Bangladesh	HTTP
+Mon Apr 21 2025 15:40:36 GMT+0700 (Indochina Time)	190.15.210.143:33333	1037.66ms	5500	Mendoza	Argentina	HTTP
+Mon Apr 21 2025 15:41:34 GMT+0700 (Indochina Time)	203.150.128.214:5678	1012.44ms	10260	Vadhana	Thailand	HTTP
+Mon Apr 21 2025 15:41:34 GMT+0700 (Indochina Time)	103.53.76.82:1089	1363.43ms	60271	Surabaya	Indonesia	HTTP
+Mon Apr 21 2025 15:41:34 GMT+0700 (Indochina Time)	60.187.244.13:8085	997.18ms	312000	Shaoxing	China	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	46.160.129.189:3128	1009.02ms	624090	Verkhnyaya Pyshma	Russia	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	62.99.178.46:43636	1014.12ms	1200	Vienna	Austria	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	177.12.178.9:4153	1027.11ms	26100	Belford Roxo	Brazil	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	5.8.18.244:993	1013.11ms	85001	Phoenix	United States	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	187.108.86.40:35376	1002.94ms		Itaguara	Brazil	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	27.121.87.187:80	991.36ms		Pekanbaru	Indonesia	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	80.92.227.185:5678	1009.69ms	2063	Kyiv	Ukraine	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	46.175.249.30:8080	1002.97ms	70423	Zaporizhzhya	Ukraine	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	101.231.178.155:7028	1006.96ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	165.227.104.122:48500	1081.08ms	7014	Clifton	United States	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	20.27.86.185:8080	1317.54ms	540-0002	Osaka	Japan	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	8.130.74.114:9098	1174.56ms		Beijing	China	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	47.236.163.74:8080	1742.6ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	45.229.205.190:55555	1729.92ms	1871	Avellaneda	Argentina	HTTP
+Mon Apr 21 2025 15:41:35 GMT+0700 (Indochina Time)	187.102.26.79:35618	1425.35ms	35000	Governador Valadares	Brazil	HTTP
+Mon Apr 21 2025 15:41:36 GMT+0700 (Indochina Time)	85.117.56.41:8080	1059.65ms		Marneuli	Georgia	HTTP
+Mon Apr 21 2025 15:41:36 GMT+0700 (Indochina Time)	67.43.228.250:29701	1006.96ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:41:36 GMT+0700 (Indochina Time)	103.82.227.22:3128	999.89ms		Chaowai	China	HTTP
+Mon Apr 21 2025 15:41:36 GMT+0700 (Indochina Time)	194.59.205.143:443	1017.44ms	90431	Nuremberg	Germany	HTTP
+Mon Apr 21 2025 15:42:33 GMT+0700 (Indochina Time)	45.188.167.25:999	1013.94ms	49650	Tamazula de Gordiano	Mexico	HTTP
+Mon Apr 21 2025 15:42:33 GMT+0700 (Indochina Time)	51.75.126.150:59091	1002.27ms	59100	Roubaix	France	HTTP
+Mon Apr 21 2025 15:42:33 GMT+0700 (Indochina Time)	31.43.63.70:4145	1048.12ms	9201	Kaharlyk	Ukraine	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	103.156.233.175:3125	1006.51ms		Bogor	Indonesia	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	124.158.154.18:3128	1044.15ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	190.120.254.17:4145	1007.45ms		Valencia	Venezuela	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	212.89.188.115:21231	1018.53ms	4240	Freistadt	Austria	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	170.81.108.153:4153	1004.53ms	45700-000	Itapetinga	Brazil	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	46.161.195.133:8080	1013.32ms		Duhok	Iraq	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	31.172.186.69:21132	1052.41ms	30-009	Krakow	Poland	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	185.55.2.214:1080	1437.37ms	144700	Moscow	Russia	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	103.101.82.106:80	1542.96ms		Phnom Penh	Cambodia	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	183.165.227.13:8089	1032.83ms	230000	Hefei	China	HTTP
+Mon Apr 21 2025 15:42:35 GMT+0700 (Indochina Time)	203.160.63.113:4145	1465.01ms		Jakarta	Indonesia	HTTP
+Mon Apr 21 2025 15:42:36 GMT+0700 (Indochina Time)	162.255.108.225:5678	1015.65ms	99301	Pasco	United States	HTTP
+Mon Apr 21 2025 15:42:36 GMT+0700 (Indochina Time)	47.89.159.212:8123	1061.96ms	22902	Charlottesville	United States	HTTP
+Mon Apr 21 2025 15:42:36 GMT+0700 (Indochina Time)	47.103.103.132:8443	1020.7ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:42:36 GMT+0700 (Indochina Time)	81.16.1.71:5678	1008.97ms		Yerevan	Armenia	HTTP
+Mon Apr 21 2025 15:42:36 GMT+0700 (Indochina Time)	27.147.137.90:8090	1001.62ms	1212	Dhaka	Bangladesh	HTTP
+Mon Apr 21 2025 15:43:33 GMT+0700 (Indochina Time)	72.10.160.90:18401	1074.89ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	34.79.91.3:59040	997.62ms	1930	Brussels	Belgium	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	45.61.187.67:4007	992.2ms	33132	Miami	United States	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	187.111.193.82:44681	1054.83ms	44190	Santo Est?v?o	Brazil	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	157.119.50.70:1080	1067.87ms	1230	Tongi	Bangladesh	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	45.78.215.125:20000	1043.95ms	858877	Singapore	Singapore	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	197.211.238.20:5678	1011.09ms		Harare	Zimbabwe	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	60.190.195.146:10800	1031.09ms	312000	Shaoxing	China	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	103.105.76.7:8080	1040.77ms	64123	Kediri	Indonesia	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	103.84.178.193:4153	1057.83ms	4035	Kovilpatti	India	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	72.10.160.90:21989	1094.83ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	24.199.113.48:8888	2833.63ms	95054	Santa Clara	United States	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	103.47.93.199:1080	1015.03ms	282001	Agra	India	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	84.17.51.241:3128	1029.82ms	EC1N	London	United Kingdom	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	103.149.104.6:4153	1507.4ms	1207	K?frul	Bangladesh	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	62.27.108.174:8080	1395.62ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	67.43.236.20:26191	1030.39ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	177.22.203.113:4153	1046.13ms	57000	Macei?	Brazil	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	119.15.86.30:8080	1029.12ms		Phnom Penh	Cambodia	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	67.43.228.251:2523	1164.2ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:43:35 GMT+0700 (Indochina Time)	195.29.106.2:4153	1385.58ms	52100	Pula	Croatia	HTTP
+Mon Apr 21 2025 15:43:36 GMT+0700 (Indochina Time)	80.107.16.17:4145	1008.84ms		V?ri	Greece	HTTP
+Mon Apr 21 2025 15:43:36 GMT+0700 (Indochina Time)	8.211.49.86:10000	990.91ms	60313	Frankfurt am Main	Germany	HTTP
+Mon Apr 21 2025 15:43:36 GMT+0700 (Indochina Time)	117.69.233.24:8089	1049.94ms	230000	Hefei	China	HTTP
+Mon Apr 21 2025 15:43:36 GMT+0700 (Indochina Time)	67.43.236.20:13947	1026.56ms	H4X	Montreal	Canada	HTTP
+Mon Apr 21 2025 15:43:36 GMT+0700 (Indochina Time)	110.141.237.221:5200	1031.1ms	3144	Melbourne	Australia	HTTP
+Mon Apr 21 2025 15:43:36 GMT+0700 (Indochina Time)	49.67.128.182:8089	1002.37ms		Shanghai	China	HTTP
+Mon Apr 21 2025 15:44:56 GMT+0700 (Indochina Time)	40.76.209.52:3131	1430.48ms	23917	Boydton	United States	HTTP
+Mon Apr 21 2025 15:45:01 GMT+0700 (Indochina Time)	46.173.211.221:12880	7931.65ms	101194	Moscow	Russia	HTTP
+Mon Apr 21 2025 15:45:04 GMT+0700 (Indochina Time)	191.102.104.163:999	7878.15ms	270001	Quibd?	Colombia	HTTP
+Mon Apr 21 2025 15:46:14 GMT+0700 (Indochina Time)	198.199.86.11:80	8773.23ms	7047	North Bergen	United States	HTTP
+Mon Apr 21 2025 15:47:27 GMT+0700 (Indochina Time)	185.41.152.110:3128	6530.59ms	59300	Valenciennes	France	HTTP
+Mon Apr 21 2025 15:47:41 GMT+0700 (Indochina Time)	157.20.222.146:8080	3942.3ms		Serpong	Indonesia	HTTP
+Mon Apr 21 2025 15:47:58 GMT+0700 (Indochina Time)	64.23.215.99:8888	3344.77ms	95054	Santa Clara	United States	HTTP
