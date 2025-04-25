@@ -15,6 +15,7 @@
 # 🌎 Free Proxy List
 Fetches fresh proxies—including **HTTP**, **HTTPS**, **SOCKS4**, and **SOCKS5** proxies—from around the web.
 > **6382** Fresh Proxies found in the latest update.
+* 📓 Group Telegram update realtime:  <a href="https://t.me/proxyupdatefree">**https://t.me/proxyupdatefree**</a>
 
 ## 🎯 Features
 * ⚡ Extremely fast
